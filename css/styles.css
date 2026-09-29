@@ -580,3 +580,8 @@ p { margin: 0 0 1em; }
   html { scroll-behavior: auto; }
   .reveal { opacity: 1; transform: none; }
 }
+
+/* Tarjeta de contacto: ocupa el espacio sobrante de la última fila (13 servicios) */
+@media (min-width: 981px) {
+  .card--cta { grid-column: span 3; }
+}

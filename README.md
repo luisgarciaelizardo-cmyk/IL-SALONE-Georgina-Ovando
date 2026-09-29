@@ -22,7 +22,7 @@ assets/logo.jpg   Logotipo
 ## Pendiente de confirmar
 - Dirección escrita y horario (hoy la sección enlaza a Google Maps y dice "con cita previa").
 - Fotos reales de trabajos (desde Instagram) para una galería.
-- Lista final de servicios y precios.
+- Precios de los servicios (si se quieren mostrar).
 
 ## Ver localmente
 Abre `index.html` en el navegador. Para publicarlo gratis, activa **GitHub Pages** en *Settings → Pages* con la rama `main`.
